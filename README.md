@@ -6,20 +6,25 @@ The TITI'GAS Website is designed as a `MERN` (MongoDB, Express, React, Node.js) 
 
 ## Frontend
 
-`React.js:` Used for building a dynamic and interactive user interface.
-`Tailwind CSS:` For styling the UI with a utility-first CSS framework.
-`shadcn:` A component library that works seamlessly with Tailwind for pre-styled, accessible components.
+- `React.js:` Used for building a dynamic and interactive user interface.
+
+- `Tailwind CSS:` For styling the UI with a utility-first CSS framework.
+
+- `shadcn:` A component library that works seamlessly with Tailwind for pre-styled, accessible components.
 
 ## Backend
 
-`Node.js & Express.js:` The server is built using Node.js and Express to handle API requests and serve the backend functionality.
-`MongoDB:` The database used to store workout data, with Mongoose as the ODM (Object Data Modeling) library.
+- `Node.js & Express.js:` The server is built using Node.js and Express to handle API requests and serve the backend functionality.
+
+- `MongoDB:` The database used to store workout data, with Mongoose as the ODM (Object Data Modeling) library.
 
 ## Libraries and Tools
 
-`Nodemon:` Automatically restarts the server during development when file changes are detected.
-`Mongoose:` For MongoDB object modeling, making it easier to define schemas and interact with the database.
-`bcrypt:` Used for securely hashing and managing user passwords.
+- `Nodemon:` Automatically restarts the server during development when file changes are detected.
+
+- `Mongoose:` For MongoDB object modeling, making it easier to define schemas and interact with the database.
+
+- `bcrypt:` Used for securely hashing and managing user passwords.
 
 ## Getting Started
 
@@ -60,6 +65,8 @@ npm install
 
 # Features
 
-`User Authentication:` Secure login and registration with hashed passwords.
-`Workout Logging:` Users can add, view, and delete their workouts, including details like exercise type, sets, reps, and weights.
-`Responsive Design:` The app is fully responsive and works on both desktop and mobile devices.
+- `User Authentication:` Secure login and registration with hashed passwords.
+
+- `Workout Logging:` Users can add, view, and delete their workouts, including details like exercise type, sets, reps, and weights.
+
+- `Responsive Design:` The app is fully responsive and works on both desktop and mobile devices.
