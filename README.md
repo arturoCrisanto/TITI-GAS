@@ -1,6 +1,6 @@
-# Workout App
+# TITI'GAS Website
 
-The Workout App is designed as a `MERN` (MongoDB, Express, React, Node.js) Stack project to enhance development skills and showcase a workout tracking application. It allows users to log and manage their workout routines, making it easier to track fitness progress over time.
+The TITI'GAS Website is designed as a `MERN` (MongoDB, Express, React, Node.js) Stack project to enhance development skills and showcase a workout tracking application. It allows users to log and manage their workout routines, making it easier to track fitness progress over time.
 
 # Technologies Used
 
