@@ -1,3 +1,14 @@
+# Running the Application
+
+1. Start the backend:
+
+```bash
+cd server
+npm run dev
+```
+
+# Folder Structure
+
 `controllers/:` Contains the business logic of the application, organized by feature.
 `middleware/:` Holds custom middleware, which can be used in routes or globally in the app.
 `models/:` Contains database models or schemas, often organized by entities (e.g., User, Product).
