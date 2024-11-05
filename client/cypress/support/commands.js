@@ -8,7 +8,21 @@
 // https://on.cypress.io/custom-commands
 // ***********************************************
 //
-//
+Cypress.Commands.add("logInfo", (message) => {
+  cy.log(`ℹ️  INFO: ${message}`);
+});
+
+Cypress.Commands.add(
+  "waitForElementToBeVisible",
+  (selector, timeout = 5000) => {
+    cy.get(selector, { timeout }).should("be.visible");
+  }
+);
+
+Cypress.Commands.add("getDataTest", (dataTestSelector) => {
+  return cy.get(`[data-test="${dataTestSelector}"]`);
+});
+
 // -- This is a parent command --
 // Cypress.Commands.add('login', (email, password) => { ... })
 //

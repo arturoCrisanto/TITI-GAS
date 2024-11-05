@@ -1,0 +1,8 @@
+{
+    "stepDefinitions": [
+      "cypress/regression/[filepath]/**/*.cy.js",
+      "cypress/regression/[filepath].cy.js",
+      "cypress/regression/[filepart]/common.cy.js",
+      "cypress/regression/common/*.cy.js"
+    ]
+  }
