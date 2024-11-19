@@ -70,4 +70,4 @@ npm install
 - `Workout Logging:` Users can add, view, and delete their workouts, including details like exercise type, sets, reps, and weights.
 
 - `Responsive Design:` The app is fully responsive and works on both desktop and mobile devices.
-- `others`
+- `others` for update pa
