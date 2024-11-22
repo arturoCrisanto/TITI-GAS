@@ -71,3 +71,5 @@ npm install
 
 - `Responsive Design:` The app is fully responsive and works on both desktop and mobile devices.
 - `others` for update pa
+
+- change
